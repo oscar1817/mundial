@@ -1,0 +1,36 @@
+.tilo{
+    background-color: rgb(0, 255, 255);
+}
+.sesion1{
+    display: grid;
+    grid-template-columns: 200px auto;
+    position: fixed;
+    height: 200px;
+}
+.sesion2{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.sesion2lo2{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.navo{
+    background-color: rgb(2, 177, 177);
+    color: black;
+    border: 2px solid rgb(red, rgb(0, 255, 0), blue);
+    padding: 20px 20px;
+    text-align: center;
+    display: online-block;
+    border-radius: 10px;
+}
+.yulo{
+    text-align: center;
+    background-color: rgb(0, 68, 255);
+    height: 100px;
+    padding-top: 50px;
+}
+.sesion3{
+    display: grid;
+    text-align: center;
+}
